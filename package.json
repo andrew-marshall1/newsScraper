@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "newsscraper",
     "version": "1.0.0",
     "description": "",
@@ -51,4 +50,4 @@
     "mongoose": "^5.4.15"
   }
 }
->>>>>>> ae8e41409d67251c275bd86518be3534d62e6eb7
+
